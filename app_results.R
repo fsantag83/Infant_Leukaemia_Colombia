@@ -1,7 +1,3 @@
-rsconnect::setAccountInfo(name='lfstag', 
-                          token='22CC9CE25B802CEDB4F03CC13BBBC239', 
-                          secret='agxACxGlgmTIHRkCyonZECn42q8r64D7r5mKMjCP')
-
 rm(list = ls())
 require(shiny)
 
